@@ -1,0 +1,91 @@
+{
+  "name": "keyall",
+  "commands": [
+    {
+      "command": "case key giveall emerald 1",
+      "gender": "CONSOLE",
+      "interval": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "delay": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    {
+      "command": "case key giveall golden 1",
+      "gender": "CONSOLE",
+      "interval": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "delay": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    },
+    {
+      "command": "case key giveall pingki 1",
+      "gender": "CONSOLE",
+      "interval": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      },
+      "delay": {
+        "days": 0,
+        "hours": 0,
+        "minutes": 0,
+        "seconds": 0
+      }
+    }
+  ],
+  "interval": {
+    "days": 0,
+    "hours": 1,
+    "minutes": 0,
+    "seconds": 0
+  },
+  "times": [],
+  "random": 1.0,
+  "days": [
+    "MONDAY",
+    "TUESDAY",
+    "WEDNESDAY",
+    "THURSDAY",
+    "FRIDAY",
+    "SATURDAY",
+    "SUNDAY"
+  ],
+  "executionLimit": -1,
+  "timesExecuted": 25,
+  "lastExecutedCommandIndex": 0,
+  "lastExecuted": "Jan 1, 2024, 8:37:27 AM",
+  "commandExecutionMode": "ALL",
+  "commandExecutionInterval": {
+    "days": 0,
+    "hours": 0,
+    "minutes": 0,
+    "seconds": 1
+  },
+  "active": true,
+  "resetExecutionsAfterRestart": false,
+  "condition": {
+    "conditionType": "SIMPLE",
+    "conditions": [],
+    "simpleCondition": {
+      "conditionParamFields": []
+    }
+  },
+  "events": []
+}
